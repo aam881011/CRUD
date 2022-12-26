@@ -91,7 +91,7 @@ function showData() {
   for (let i = 0; i < dataPro.length; i++) {
     table += `
         <tr>
-            <td>${i+1}</td>
+            <td>${i}</td>
             <td>${dataPro[i].title}</td>
             <td>${dataPro[i].price}</td>
             <td>${dataPro[i].taxes}</td>
