@@ -8,7 +8,7 @@ let count = document.getElementById("count");
 let category = document.getElementById("category");
 let submit = document.getElementById("submit");
 
-let mood = "creat";
+let mood = "create";
 let tmp;
 
 // get total
